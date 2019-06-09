@@ -1,16 +1,13 @@
-# ext_image
+# 图片放大项目
 
-A new Flutter project.
+这个项目是用flutter实现图片放大的功能
 
-## Getting Started
+## 技术栈
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+这个项目用到的插件有
+  cupertino_icons: ^0.1.2
+  extended_image: ^0.4.1      图片放大插件
+  flutter_screenutil: ^0.5.1  适配插件
+  provide: ^1.0.2             状态管理插件
+  
+ 
